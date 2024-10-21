@@ -1,0 +1,10 @@
+.root {
+ -fx-background-color: default;
+}
+
+.radio-button {
+ -fx-text-fill: default;
+}
+.button {
+ -fx-text-fill: default;
+}
